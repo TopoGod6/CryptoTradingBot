@@ -1,7 +1,4 @@
 # CryptoTradingBot
 
- Crypto Trading Bot
- 
- Bot is made for Binance.
- 
- It uses: overbought and oversold indicator 
+
+ <h6>Bot is made for Binance. It uses <b>"overbought and oversold indicator"</b>. </h6>
